@@ -1,5 +1,5 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# Linux-Apt-Fix (V2.0)
+# Linux-Apt-Fix (V2.0.0)
 A Bash Script to automatically fix / repair and clean broken or incomplete APT package on Debian/Ubuntu Systems.\
 
 ---
