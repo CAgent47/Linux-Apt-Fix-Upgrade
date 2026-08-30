@@ -2,8 +2,6 @@
 # Linux-Apt-Fix (V2.0)
 A Bash Script to automatically fix / repair and clean broken or incomplete APT package on Debian/Ubuntu Systems.\
 
-**new version comming soon**
-
 ---
 
 # 🛠️ Linux APT Auto‑Fix & System Repair Script
